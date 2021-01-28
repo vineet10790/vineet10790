@@ -1,16 +1,13 @@
-### Hi there 👋
+### I am Vineet. Let me give you a brief introduction.
 
-<!--
-**vineet10790/vineet10790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Alt Text](https://media.giphy.com/media/xtDO8xDNJ5hNm/giphy.gif)
 
-Here are some ideas to get you started:
+## I am an Insurance professional having theoretical knowledge in General insurance sector including Actuarial aspects of product development, Health, Aviation, Engineering, Motor, Marine etc. I am also having foundational knowledge in Machine Learning. Aspiring Actuary.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Machine learning projects to get more hands on experience.
+- 🌱 I’m currently learning Neural Networks in depth.
+- 👯 I’m looking to collaborate on anything that is exciting and challenging.
+- 🤔 I’m looking for help with understanding the hidden gems and creativity in ML algorithms.
+- 📫 How to reach me: vineetmohapatra@gmail.com
+- ⚡ Fun fact: Battlestar Galactica scares me. Terrified of AI Bots.
+
